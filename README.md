@@ -31,21 +31,21 @@ Users should be able to:
 
 ### Design
 
-![./design/desktop-design.jpg](./design/desktop-design.jpg)
+![./asset/design/desktop-design.jpg](./asset/design/desktop-design.jpg)
 
 ### solution
 
-![./design/screenshot.png](./design/screenshot.png)
+![./asset/design/screenshot.png](./asset/design/screenshot.png)
 
 ## Mobile
 
 ### Design
 
-![./design/mobile-design.jpg](./design/mobile-design.jpg)
+![./asset/design/mobile-design.jpg](./asset/design/mobile-design.jpg)
 
 ### solution
 
-![./design/screenshotm.png](./design/screenshotm.png)
+![./asset/design/screenshotm.png](./asset/design/screenshotm.png)
 
 ### Links
 
