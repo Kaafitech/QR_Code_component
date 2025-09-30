@@ -15,23 +15,26 @@
     <link rel="stylesheet" href="./asset/css/reset.css" />
     <link rel="stylesheet" href="./asset/css/style.css" />
 
-    <link
-      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
-
     <title>Frontend Mentor | QR code component</title>
   </head>
   <body>
-    <article>
-      <img src="./asset/images/image-qr-code.png" alt="image-qr-code" />
-      <section>
-        <h1>Improve your front-end skills by building projects</h1>
-        <p>
-          Scan the QR code to visit Frontend Mentor and take your coding skills
-          to the next level
-        </p>
-      </section>
-    </article>
+    <main class="flex-col-center">
+      <article class="card flex-col">
+        <img
+          class="card__img"
+          src="./asset/images/image-qr-code.png"
+          alt="image-qr-code"
+        />
+        <section class="card__content flex-col">
+          <h1 class="card__title text-preset-1">
+            Improve your front-end skills by building projects
+          </h1>
+          <p class="card__text text-preset-2">
+            Scan the QR code to visit Frontend Mentor and take your coding
+            skills to the next level
+          </p>
+        </section>
+      </article>
+    </main>
   </body>
 </html>
